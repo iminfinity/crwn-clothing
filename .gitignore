@@ -23,7 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 #firebase credentials
-src/firebase
+/src/firebase
 
-#i dont like my face
-src/assets/myface.jpg
