@@ -3,14 +3,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-    apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: "",
-    measurementId: ""
+    apiKey: "AIzaSyBsXbV-8zBw0xHpf91HnT_f1_naC3Jynvs",
+    authDomain: "crwn-2020.firebaseapp.com",
+    databaseURL: "https://crwn-2020.firebaseio.com",
+    projectId: "crwn-2020",
+    storageBucket: "crwn-2020.appspot.com",
+    messagingSenderId: "944071423492",
+    appId: "1:944071423492:web:f92d8b8b006542d5f12751",
+    measurementId: "G-PLC4C6VV4L"
   }
 
 firebase.initializeApp(config);
